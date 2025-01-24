@@ -22,5 +22,5 @@ We enable a range of services designed to make online shopping seamless and secu
 - [Our blog](https://engineering.klarna.com/)
 - [Out open-source contributions](https://klarna.github.io/)
 
-## :briefcase: Carrer 
+## :briefcase: Career 
 Join us in redefining online shopping with Klarna's powerful and flexible solutions. Visit [Klarna Careers](https://www.klarna.com/careers/) to learn more.
